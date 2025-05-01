@@ -3,26 +3,26 @@
 
 A simple React-based UI for a video editing workflow. This project allows users to upload a video, visualize scenes on a timeline, simulate trimming, and rearrange scenes using drag-and-drop.
 
-## 🚀 Features
+##  Features
 
-- 📤 Upload video files (MP4, AVI, MOV, WEBM)
-- 🪄 Visual Timeline with mock scene cards
-- ➕➖ Add/Remove scenes (mock trimming)
-- 🔃 Rearrange scenes via drag-and-drop (`react-beautiful-dnd`)
-- ✂️ UI buttons for trim, delete (non-functional)
-
----
-
-## 🛠️ Tech Stack
-
-- **React**
-- **Tailwind CSS**
-- **React Dropzone**
-- **React Beautiful DnD**
+-  Upload video files (MP4, AVI, MOV, WEBM)
+-  Visual Timeline with mock scene cards
+-  Add/Remove scenes (mock trimming)
+-  Rearrange scenes via drag-and-drop (`react-beautiful-dnd`)
+-  UI buttons for trim, delete (non-functional)
 
 ---
 
-## 📦 Installation
+##  Tech Stack
+
+- React
+- Tailwind CSS
+- React Dropzone
+- React Beautiful DnD
+
+---
+
+## Installation
 
 ### 1. Clone the Repository
 
