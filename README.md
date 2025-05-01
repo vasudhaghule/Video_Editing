@@ -47,23 +47,7 @@ npm run dev
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-src/
-│
-├── Components/
-│   ├── Header.jsx
-│   ├── VideoUpload.jsx
-│   └── VideoTimeline.jsx
-│
-├── App.jsx
-└── index.css
-```
-
----
-
-## ❗ Notes
+##  Notes
 
 - Ensure the following packages are installed:
   ```bash
